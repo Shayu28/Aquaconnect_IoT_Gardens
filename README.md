@@ -1,1 +1,6 @@
 # Aquaconnect_IoT_Gardens
+
+Aquaponics helps minimize the need for extensive land for traditional agriculture by integrating fish farming with soilless plant cultivation which allows for cultivation in smaller spaces, making it a viable option for both urban and rural environments where land is scarce. Through space-efficient methods like vertical farming, it contributes to sustainable food
+production, reducing the impact on land required for building constructions. In Aquaponics, a symbiotic system of hydroponics deals with soilless plant growth, and aquaculture deals with fish farming combined to create a closed-loop ecology in which fish waste feeds plants nutrients and plants assist in filtering fish water.Aquaponics systems can be
+effectively automated and supervised by leveraging Internet of Things (IoT) technology, employing sensors such as those for NPK Sensor temperature, and water levels. By integrating these sensors with the Raspberry Pi pico microprocessor, their readings can be conveniently accessed through the Blynk application for monitoring purposes. This automated approach is
+adaptable for both indoor and outdoor systems, and the collected sensor data holds potential for research applications.
